@@ -1,0 +1,11 @@
+.header-bar {
+    background-image: url('./bg.jpg');
+    height: 250px;
+    background-size: cover;
+}
+
+.title {
+    margin-left: 20px;
+    line-height: 40px;
+    font-size: 30px;
+}
